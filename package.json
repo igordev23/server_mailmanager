@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "start": "ts-node-esm src/index.ts"
+    "start": "node src/server.js"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.86.2",
